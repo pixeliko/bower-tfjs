@@ -1,0 +1,14 @@
+{
+  "name": "tfjs",
+  "version": "0.13.0",
+  "description": "",
+  "main": "./tfjs@0.13.0",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
